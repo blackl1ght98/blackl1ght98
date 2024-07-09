@@ -117,24 +117,6 @@ Lenguajes de programacion:
 <h2>Tecnologías web y bases de datos</h2>
 
 <h3>Tecnologías web</h3>
-<table>
-    <tr>
-        <th>Tecnología</th>
-        <th>Valoración</th>
-    </tr>
-    <tr>
-        <td>HTML</td>
-        <td>HTML 🟢🟢🟢🟢⚪⚪</td>
-    </tr>
-    <tr>
-        <td>CSS</td>
-        <td>CSS 🟢🟢🟢⚪⚪⚪</td>
-    </tr>
-    <tr>
-        <td>SASS</td>
-        <td>SASS 🔴⚪⚪⚪⚪⚪</td>
-    </tr>
-</table>
 <html>
 <body>
 <h3>Bases de datos</h3>
