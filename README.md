@@ -114,9 +114,7 @@ Lenguajes de programacion:
 -----------------------------------------
 <body>
 
-<h2>Tecnologías web y bases de datos</h2>
-
-<h3>Tecnologías web</h3>
+<h2> bases de datos</h2>
 <html>
 <body>
 <h3>Bases de datos</h3>
