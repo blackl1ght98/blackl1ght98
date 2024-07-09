@@ -42,11 +42,6 @@ Lenguajes de programacion:
         <td>Java 🔴⚪⚪⚪⚪⚪</td>
     </tr>
 </table>
-
-</body>
-</html>
-<html>
-<body>
 <h2>Frameworks & Libraries</h2>
 
 <table>
@@ -76,17 +71,6 @@ Lenguajes de programacion:
         <td> 🟢🟢🟢🟢⚪⚪ </td>
     </tr>
 </table>
-
-</body>
-</html>
-----------------------------------------
-<!DOCTYPE html>
-<html>
-<head>
-  
-</head>
-<body>
-
 <h2>Tecnologías web</h2>
 
 <table>
@@ -107,16 +91,6 @@ Lenguajes de programacion:
         <td>SASS 🔴⚪⚪⚪⚪⚪</td>
     </tr>
 </table>
-
-</body>
-</html>
-
------------------------------------------
-<body>
-
-<h2> bases de datos</h2>
-<html>
-<body>
 <h3>Bases de datos</h3>
 <table>
     <tr>
@@ -136,9 +110,10 @@ Lenguajes de programacion:
         <td>Firebase 🟢🟢🟢🟢⚪⚪</td>
     </tr>
 </table>
-
 </body>
 </html>
+
+
 
 		
 
