@@ -1,137 +1,84 @@
-Hola soy Guillermo 👋
+# ¡Hola, soy Guillermo! 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=30&center=true&vCenter=true&lines=Desarrollador+Web+Frontend+%26+Backend;Apasionado+por+la+tecnología+y+el+desarrollo;" />
+</p>
 
+---
 
-👩‍💻 Habilidades:
-🌟 Nivel de habilidad:
+### 👩‍💻 **Habilidades**
 
-    🔴⚪⚪⚪⚪⚪ - leve conocimiento
-    🟡🟡⚪⚪⚪⚪ - Principiante
-    🟢🟢🟢⚪⚪⚪ - Novato
-    🟢🟢🟢🟢⚪⚪ - Con experiencia
-    🔵🔵🔵🔵🔵⚪ - Buen nivel
-    ⭐⭐⭐⭐⭐⭐ - Pro
-		 
-<html>
-<head>
-    
-</head>
-<body>
+| **Nivel de habilidad** | 
+| :--------------------- | 
+| 🔴⚪⚪⚪⚪⚪ - Nivel básico | 
+| 🟡🟡⚪⚪⚪⚪ - Principiante | 
+| 🟢🟢🟢⚪⚪⚪ - Novato | 
+| 🟢🟢🟢🟢⚪⚪ - Con experiencia | 
+| 🔵🔵🔵🔵🔵⚪ - Buen nivel | 
+| ⭐⭐⭐⭐⭐⭐ - Pro |
 
-<h2>Valoración de lenguajes de programación</h2>
-Lenguajes de programacion:
-<table>
-    <tr>
-        <th>Lenguaje</th>
-        <th>Valoración</th>
-    </tr>
-    <tr>
-        <td>JavaScript</td>
-        <td>JavaScript 🟢🟢🟢⚪⚪⚪</td>
-    </tr>
-    <tr>
-        <td>TypeScript</td>
-        <td>TypeScript 🟢🟢🟢⚪⚪⚪</td>
-    </tr>
-    <tr>
-        <td>C#</td>
-        <td>C# 🟢🟢🟢🟢⚪⚪</td>
-    </tr>
-    <tr>
-        <td>Java</td>
-        <td>Java 🔴⚪⚪⚪⚪⚪</td>
-    </tr>
-</table>
-<h2>Frameworks & Libraries</h2>
+---
 
-<table>
-    <tr>
-        <th>Nombre</th>
-        <th>Descripción</th>
-        <th>Valoración</th>
-    </tr>
-    <tr>
-        <td>Angular</td>
-        <td>Framework</td>
-        <td>🟢🟢🟢⚪⚪⚪</td>
-    </tr>
-    <tr>
-        <td>React</td>
-        <td>Framework</td>
-        <td>🟡🟡⚪⚪⚪⚪</td>
-    </tr>
-     <tr>
-        <td>.NET</td>
-        <td>Framework</td>
-        <td> 🟢🟢🟢🟢⚪⚪ </td>
-    </tr>
-    <tr>
-        <td>Bootstrap</td>
-        <td>Framework</td>
-        <td> 🟢🟢🟢🟢⚪⚪ </td>
-    </tr>
-</table>
-<h2>Tecnologías web</h2>
+### Lenguajes de Programación:
 
-<table>
-    <tr>
-        <th>Tecnología</th>
-        <th>Valoración</th>
-    </tr>
-    <tr>
-        <td>HTML</td>
-        <td>HTML 🟢🟢🟢🟢⚪⚪</td>
-    </tr>
-    <tr>
-        <td>CSS</td>
-        <td>CSS 🟢🟢🟢⚪⚪⚪</td>
-    </tr>
-    <tr>
-        <td>SASS</td>
-        <td>SASS 🔴⚪⚪⚪⚪⚪</td>
-    </tr>
-</table>
-<h3>Bases de datos</h3>
-<table>
-    <tr>
-        <th>Base de datos</th>
-        <th>Valoración</th>
-    </tr>
-    <tr>
-        <td>MongoDB</td>
-        <td>MongoDB 🟢🟢⚪⚪⚪⚪</td>
-    </tr>
-    <tr>
-        <td>MySQL</td>
-        <td>MySQL 🟢🟢🟢⚪⚪⚪</td>
-    </tr>
-    <tr>
-        <td>Firebase</td>
-        <td>Firebase 🟢🟢🟢🟢⚪⚪</td>
-    </tr>
-</table>
-</body>
-</html>
+<div align="center">
 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%E2%AD%90%E2%AD%90%E2%AD%90%E2%9A%AB%E2%9A%AB%E2%9A%AB-yellow)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%E2%AD%90%E2%AD%90%E2%AD%90%E2%9A%AB%E2%9A%AB%E2%9A%AB-blue)
+  ![C#](https://img.shields.io/badge/C%23-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%9A%AB%E2%9A%AB-green)
+  ![Java](https://img.shields.io/badge/Java-%E2%AD%90%E2%9A%AB%E2%9A%AB%E2%9A%AB%E2%9A%AB%E2%9A%AB-orange)
 
+</div>
 
-		
+### Frameworks & Librerías
 
+| **Framework** | **Descripción** | **Nivel** |
+| ------------- | --------------- | --------- |
+| Angular       | Framework       | 🟢🟢🟢⚪⚪⚪  |
+| React         | Framework       | 🟡🟡⚪⚪⚪⚪  |
+| .NET          | Framework       | 🟢🟢🟢🟢⚪⚪ |
+| Bootstrap     | Framework       | 🟢🟢🟢🟢⚪⚪ |
 
-Diseño hecho por 3ntr0pia.
+---
 
+### Tecnologías Web:
 
-<!--
-**blackl1ght98/blackl1ght98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| **Tecnología** | **Nivel**        |
+| -------------- | ---------------- |
+| HTML           | 🟢🟢🟢🟢⚪⚪        |
+| CSS            | 🟢🟢🟢⚪⚪⚪        |
+| SASS           | 🔴⚪⚪⚪⚪⚪        |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Bases de Datos
+
+| **Base de Datos** | **Nivel**        |
+| ----------------- | ---------------- |
+| MongoDB           | 🟢🟢⚪⚪⚪⚪        |
+| MySQL             | 🟢🟢🟢⚪⚪⚪        |
+| Firebase          | 🟢🟢🟢🟢⚪⚪        |
+
+---
+
+### Repositorios Principales
+Aquí puedes encontrar algunos de mis repositorios con animaciones:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tunombre&layout=compact&theme=radical)
+
+---
+
+### 🛠️ Herramientas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+<p align="center">Diseño y desarrollo por <strong>3ntr0pia</strong> 🌟</p>
