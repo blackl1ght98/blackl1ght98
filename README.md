@@ -1,7 +1,7 @@
 # ¡Hola, soy Guillermo! 👋
 
 <p align="center">
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=30&center=true&vCenter=true&lines=Desarrollador+Web+Frontend+%26+Backend;Apasionado+por+la+tecnología+y+el+desarrollo;)
+DESARROLLADOR BACKEND Y FRONTEND
 
 </p>
 
@@ -27,7 +27,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-%E2%AD%90%E2%AD%90%E2%AD%90%E2%9A%AB%E2%9A%AB%E2%9A%AB-yellow)
   ![TypeScript](https://img.shields.io/badge/TypeScript-%E2%AD%90%E2%AD%90%E2%AD%90%E2%9A%AB%E2%9A%AB%E2%9A%AB-blue)
   ![C#](https://img.shields.io/badge/C%23-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%9A%AB%E2%9A%AB-green)
-  ![Java](https://img.shields.io/badge/Java-%E2%AD%90%E2%9A%AB%E2%9A%AB%E2%9A%AB%E2%9A%AB%E2%9A%AB-orange)
+  ![Java](https://img.shields.io/badge/Java-%E2%AD%90%E2%AD%90%E2%AD%90%E2%9A%AB%E2%9A%AB%E2%9A%AB-orange)
 
 </div>
 
