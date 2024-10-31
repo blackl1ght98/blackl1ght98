@@ -2,21 +2,18 @@
 
 <p align="center">
 DESARROLLADOR BACKEND Y FRONTEND
-
 </p>
 
 ---
 
 ### 👩‍💻 **Habilidades**
 
-| **Nivel de habilidad** | 
-| :--------------------- | 
-| 🔴⚪⚪⚪⚪⚪ - Nivel básico | 
-| 🟡🟡⚪⚪⚪⚪ - Principiante | 
-| 🟢🟢🟢⚪⚪⚪ - Novato | 
-| 🟢🟢🟢🟢⚪⚪ - Con experiencia | 
-| 🔵🔵🔵🔵🔵⚪ - Buen nivel | 
-| ⭐⭐⭐⭐⭐⭐ - Pro |
+- 🔴⚪⚪⚪⚪⚪ - Nivel básico
+- 🟡🟡⚪⚪⚪⚪ - Principiante
+- 🟢🟢🟢⚪⚪⚪ - Novato
+- 🟢🟢🟢🟢⚪⚪ - Con experiencia
+- 🔵🔵🔵🔵🔵⚪ - Buen nivel
+- ⭐⭐⭐⭐⭐⭐ - Pro
 
 ---
 
@@ -31,44 +28,40 @@ DESARROLLADOR BACKEND Y FRONTEND
 
 </div>
 
-### Frameworks & Librerías
+---
 
-| **Framework** | **Descripción** | **Nivel** |
-| ------------- | --------------- | --------- |
-| Angular       | Framework       | 🟢🟢🟢⚪⚪⚪  |
-| React         | Framework       | 🟡🟡⚪⚪⚪⚪  |
-| .NET          | Framework       | 🟢🟢🟢🟢⚪⚪ |
-| Bootstrap     | Framework       | 🟢🟢🟢🟢⚪⚪ |
+### Frameworks & Librerías:
+
+- **Angular**: 🟢🟢🟢⚪⚪⚪
+- **React**: 🟡🟡⚪⚪⚪⚪
+- **.NET**: 🟢🟢🟢🟢⚪⚪
+- **Bootstrap**: 🟢🟢🟢🟢⚪⚪
 
 ---
 
 ### Tecnologías Web:
 
-| **Tecnología** | **Nivel**        |
-| -------------- | ---------------- |
-| HTML           | 🟢🟢🟢🟢⚪⚪        |
-| CSS            | 🟢🟢🟢⚪⚪⚪        |
-| SASS           | 🔴⚪⚪⚪⚪⚪        |
+- **HTML**: 🟢🟢🟢🟢⚪⚪
+- **CSS**: 🟢🟢🟢⚪⚪⚪
+- **SASS**: 🔴⚪⚪⚪⚪⚪
 
 ---
 
-### Bases de Datos
+### Bases de Datos:
 
-| **Base de Datos** | **Nivel**        |
-| ----------------- | ---------------- |
-| MongoDB           | 🟢🟢⚪⚪⚪⚪        |
-| MySQL             | 🟢🟢🟢⚪⚪⚪        |
-| Firebase          | 🟢🟢🟢🟢⚪⚪        |
+- **MongoDB**: 🟢🟢⚪⚪⚪⚪
+- **MySQL**: 🟢🟢🟢⚪⚪⚪
+- **Firebase**: 🟢🟢🟢🟢⚪⚪
 
 ---
 
-### Repositorios Principales
-Aquí puedes encontrar algunos de mis proyectos mas elaborado hasta ahora 
-https://github.com/blackl1ght98/GestorInventario
+### Repositorios Principales:
+
+Aquí puedes encontrar algunos de mis proyectos más elaborados hasta ahora: [Gestor de Inventario](https://github.com/blackl1ght98/GestorInventario)
 
 ---
 
-### 🛠️ Herramientas
+### 🛠️ Herramientas:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
