@@ -8,12 +8,14 @@ DESARROLLADOR BACKEND Y FRONTEND
 
 ### 👩‍💻 **Habilidades**
 
-- 🔴⚪⚪⚪⚪⚪ - Nivel básico
-- 🟡🟡⚪⚪⚪⚪ - Principiante
-- 🟢🟢🟢⚪⚪⚪ - Novato
-- 🟢🟢🟢🟢⚪⚪ - Con experiencia
-- 🔵🔵🔵🔵🔵⚪ - Buen nivel
-- ⭐⭐⭐⭐⭐⭐ - Pro
+| Nivel           | Descripción       |
+|-----------------|-------------------|
+| 🔴⚪⚪⚪⚪⚪ | Nivel básico        |
+| 🟡🟡⚪⚪⚪⚪ | Principiante        |
+| 🟢🟢🟢⚪⚪⚪ | Novato              |
+| 🟢🟢🟢🟢⚪⚪ | Con experiencia     |
+| 🔵🔵🔵🔵🔵⚪ | Buen nivel          |
+| ⭐⭐⭐⭐⭐⭐   | Pro                 |
 
 ---
 
@@ -32,26 +34,31 @@ DESARROLLADOR BACKEND Y FRONTEND
 
 ### Frameworks & Librerías:
 
-- **Angular**: 🟢🟢🟢⚪⚪⚪
-- **React**: 🟡🟡⚪⚪⚪⚪
-- **.NET**: 🟢🟢🟢🟢⚪⚪
-- **Bootstrap**: 🟢🟢🟢🟢⚪⚪
+| Framework         | Nivel           |
+|-------------------|-----------------|
+| **Angular**       | 🟢🟢🟢⚪⚪⚪      |
+| **React**         | 🟡🟡⚪⚪⚪⚪      |
+| **.NET**          | 🟢🟢🟢🟢⚪⚪      |
+| **Bootstrap**     | 🟢🟢🟢🟢⚪⚪      |
 
 ---
 
 ### Tecnologías Web:
 
-- **HTML**: 🟢🟢🟢🟢⚪⚪
-- **CSS**: 🟢🟢🟢⚪⚪⚪
-- **SASS**: 🔴⚪⚪⚪⚪⚪
+| Tecnología        | Nivel           |
+|-------------------|-----------------|
+| **HTML**          | 🟢🟢🟢🟢⚪⚪      |
+| **CSS**           | 🟢🟢🟢⚪⚪⚪      |
 
 ---
 
 ### Bases de Datos:
 
-- **MongoDB**: 🟢🟢⚪⚪⚪⚪
-- **MySQL**: 🟢🟢🟢⚪⚪⚪
-- **Firebase**: 🟢🟢🟢🟢⚪⚪
+| Base de Datos     | Nivel           |
+|-------------------|-----------------|
+| **MongoDB**       | 🟢🟢⚪⚪⚪⚪      |
+| **MySQL**         | 🟢🟢🟢⚪⚪⚪      |
+| **Firebase**      | 🟢🟢🟢🟢⚪⚪      |
 
 ---
 
@@ -74,4 +81,3 @@ Aquí puedes encontrar algunos de mis proyectos más elaborados hasta ahora: [Ge
 
 ---
 
-<p align="center">Diseño y desarrollo por <strong>3ntr0pia</strong> 🌟</p>
