@@ -1,7 +1,8 @@
 # ¡Hola, soy Guillermo! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=30&center=true&vCenter=true&lines=Desarrollador+Web+Frontend+%26+Backend;Apasionado+por+la+tecnología+y+el+desarrollo;" />
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=30&center=true&vCenter=true&lines=Desarrollador+Web+Frontend+%26+Backend;Apasionado+por+la+tecnología+y+el+desarrollo;)
+
 </p>
 
 ---
@@ -62,9 +63,8 @@
 ---
 
 ### Repositorios Principales
-Aquí puedes encontrar algunos de mis repositorios con animaciones:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tunombre&layout=compact&theme=radical)
+Aquí puedes encontrar algunos de mis proyectos mas elaborado hasta ahora 
+https://github.com/blackl1ght98/GestorInventario
 
 ---
 
