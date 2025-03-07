@@ -19,13 +19,15 @@
 
 ---
 
-### 🌐 **Lenguajes de Programación y Herramientas:**
+### Lenguajes de Programación:
 
 <div align="center">
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white)
+
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%E2%AD%90%E2%AD%90%E2%AD%90%E2%9A%AB%E2%9A%AB%E2%9A%AB-yellow)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%E2%AD%90%E2%AD%90%E2%AD%90%E2%9A%AB%E2%9A%AB%E2%9A%AB-blue)
+  ![C#](https://img.shields.io/badge/C%23-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%9A%AB%E2%9A%AB-green)
+  ![Java](https://img.shields.io/badge/Java-%E2%AD%90%E2%AD%90%E2%AD%90%E2%9A%AB%E2%9A%AB%E2%9A%AB-orange)
+
 </div>
 
 
