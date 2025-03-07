@@ -22,11 +22,12 @@
 ### 🌐 **Lenguajes de Programación y Herramientas:**
 
 <div align="center">
-  ![JavaScript](https://img.shields.io/badge/JavaScript-⚫⚫⚫-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-⚫⚫⚫-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-⚫⚫⚫-239120?style=for-the-badge&logo=csharp&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-⚫⚫⚫-FF0000?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white)
 </div>
+
 
 ---
 
@@ -92,6 +93,7 @@ Aquí puedes encontrar algunos de mis proyectos más importantes:
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 </div>
+
 
 ---
 
