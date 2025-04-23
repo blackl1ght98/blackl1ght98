@@ -1,7 +1,7 @@
-# 👋 ¡Hola! Soy Guillermo, un desarrollador Backend y Frontend
+# 👋 ¡Hola! Soy Guillermo, un Desarrollador Full Stack
 
 <p align="center">
-  <strong>Desarrollador Backend y Frontend con experiencia en tecnologías modernas y soluciones innovadoras.</strong>
+  <strong>Desarrollador Full Stack con experiencia en tecnologías modernas y soluciones innovadoras.</strong>
 </p>
 
 ---
