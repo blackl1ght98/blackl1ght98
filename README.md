@@ -5,7 +5,35 @@
 </p>
 
 ---
+# Sobre mí
+He completado un curso de introducción a la programación impartido por la ONCE, donde descubrí mi vocación por el desarrollo de software. En la parte final del curso me enfoqué en el framework .NET, lo que me llevó a desarrollar mi proyecto más ambicioso hasta la fecha: [Gestor de Inventario](https://github.com/blackl1ght98/GestorInventario)  . Este proyecto, en el que he trabajado durante 11 meses, me ha permitido consolidar mis conocimientos en .NET y poner en práctica buenas prácticas de arquitectura, seguridad y escalabilidad. Aun así, soy consciente de que siempre hay más por aprender, y continúo formándome día a día.
 
+Posteriormente, completé un bootcamp intensivo en desarrollo web con React, culminando con un proyecto final que afianzó mis competencias en el ecosistema frontend moderno.
+
+Soy una persona apasionada por la informática y la programación, con un enfoque proactivo y autodidacta, que me impulsa a mantenerme actualizado en las últimas tecnologías y tendencias del sector.
+
+🎯 Mi objetivo es integrarme en un equipo de alto rendimiento donde pueda aplicar y ampliar mi experiencia, seguir aprendiendo, y aportar soluciones innovadoras.
+
+Me considero una persona determinada, dinámica y con mentalidad emprendedora, comprometida tanto con el aprendizaje continuo como con el trabajo colaborativo.
+
+📄 Certificado de discapacidad permanente del 40%
+
+
+---
+
+# About Me
+
+I completed an introductory programming course offered by ONCE, where I discovered my passion for software development. Towards the end of the course, I focused on the .NET framework, which led me to develop my most ambitious project to date:  [Inventory manager](https://github.com/blackl1ght98/GestorInventario)r. I’ve been working on this project for 11 months, and it has allowed me to consolidate my knowledge of .NET while applying best practices in architecture, security, and scalability. I’m fully aware that there’s always more to learn, and I continue to study and grow every day.
+
+Later, I completed an intensive web development bootcamp focused on React, which culminated in a final project that strengthened my skills in the modern frontend ecosystem.
+
+I am passionate about technology and programming, with a proactive and self-taught mindset that drives me to stay up to date with the latest tools, trends, and technologies in the industry.
+
+🎯 My goal is to join a high-performance team where I can apply and expand my experience, continue learning, and contribute innovative solutions.
+
+I consider myself a determined, dynamic individual with an entrepreneurial spirit, committed to continuous learning and collaborative work.
+
+📄 Permanent disability certificate: 40%
 ### 🧑‍💻 **Leyenda**
 
 | Nivel           | Descripción       |
