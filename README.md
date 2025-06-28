@@ -23,7 +23,7 @@ Me considero una persona determinada, dinámica y con mentalidad emprendedora, c
 
 # About Me
 
-I completed an introductory programming course offered by ONCE, where I discovered my passion for software development. Towards the end of the course, I focused on the .NET framework, which led me to develop my most ambitious project to date:  [Inventory manager](https://github.com/blackl1ght98/GestorInventario)r. I’ve been working on this project for 11 months, and it has allowed me to consolidate my knowledge of .NET while applying best practices in architecture, security, and scalability. I’m fully aware that there’s always more to learn, and I continue to study and grow every day.
+I completed an introductory programming course offered by ONCE, where I discovered my passion for software development. Towards the end of the course, I focused on the .NET framework, which led me to develop my most ambitious project to date:  [Inventory manager](https://github.com/blackl1ght98/GestorInventario). I’ve been working on this project for 11 months, and it has allowed me to consolidate my knowledge of .NET while applying best practices in architecture, security, and scalability. I’m fully aware that there’s always more to learn, and I continue to study and grow every day.
 
 Later, I completed an intensive web development bootcamp focused on React, which culminated in a final project that strengthened my skills in the modern frontend ecosystem.
 
