@@ -38,9 +38,9 @@ I consider myself a determined, dynamic individual with an entrepreneurial spiri
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bernatalcudia/bernatalcudia/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bernatalcudia/bernatalcudia/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/bernatalcudia/bernatalcudia/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackl1ght98/blackl1ght98/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackl1ght98/blackl1ght98/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/blackl1ght98/blackl1ght98/output/github-snake.svg" />
 </picture>
 
 ### 🧑‍💻 **Leyenda**
