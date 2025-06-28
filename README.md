@@ -75,7 +75,9 @@
 Aquí puedes encontrar algunos de mis proyectos más importantes:
 
 - [Gestor de Inventario](https://github.com/blackl1ght98/GestorInventario)  
-- [Proyecto de Gestión de Tareas](https://github.com/blackl1ght98/TareaManagement)  
+- [Libreria java](https://github.com/blackl1ght98/Libreria-async-await-Java)
+- [Gestor de tares](https://github.com/blackl1ght98/gestortareas)
+- [Gestor de citas](https://github.com/blackl1ght98/GestorCitas)
 
 
 ---
