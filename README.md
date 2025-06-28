@@ -76,7 +76,7 @@ Aquí puedes encontrar algunos de mis proyectos más importantes:
 
 - [Gestor de Inventario](https://github.com/blackl1ght98/GestorInventario)  
 - [Proyecto de Gestión de Tareas](https://github.com/blackl1ght98/TareaManagement)  
-- [E-commerce](https://github.com/blackl1ght98/EcommerceProject)
+
 
 ---
 
