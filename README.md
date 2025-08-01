@@ -43,9 +43,7 @@ I consider myself a determined, dynamic individual with an entrepreneurial spiri
   <img alt="github-snake" src="https://raw.githubusercontent.com/blackl1ght98/blackl1ght98/output/github-snake.svg" />
 </picture>
 
-### 🐠 GIF animado:
 
-![GitHub Snake Ocean](https://raw.githubusercontent.com/blackl1ght98/blackl1ght98/output/ocean.gif)
 
 
 ### 🧑‍💻 **Leyenda**
