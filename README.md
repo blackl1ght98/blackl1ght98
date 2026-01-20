@@ -6,34 +6,35 @@
 
 ---
 # Sobre mí
-He completado un curso de introducción a la programación impartido por la ONCE, donde descubrí mi vocación por el desarrollo de software. En la parte final del curso me enfoqué en el framework .NET, lo que me llevó a desarrollar mi proyecto más ambicioso hasta la fecha: [Gestor de Inventario](https://github.com/blackl1ght98/GestorInventario)  . Este proyecto, en el que he trabajado durante 11 meses, me ha permitido consolidar mis conocimientos en .NET y poner en práctica buenas prácticas de arquitectura, seguridad y escalabilidad. Aun así, soy consciente de que siempre hay más por aprender, y continúo formándome día a día.
+He completado un curso de introducción a la programación impartido por la ONCE, donde descubrí mi vocación por el desarrollo de software. En la parte final del curso me enfoqué en el framework .NET, lo que me llevó a desarrollar mi proyecto más ambicioso hasta la fecha: [Gestor de Inventario](https://github.com/blackl1ght98/GestorInventario)  . Este proyecto en el que he trabajado casi un año aunque esta finalizado lo sigo mejorando. Esto me ha permitido consolidar mis conocimientos en .NET y poner en práctica buenas prácticas de arquitectura, seguridad y escalabilidad. Aun así, soy consciente de que siempre hay más por aprender, y continúo formándome día a día.
 
 Posteriormente, completé un bootcamp intensivo en desarrollo web con React, culminando con un proyecto final que afianzó mis competencias en el ecosistema frontend moderno.
 
 Soy una persona apasionada por la informática y la programación, con un enfoque proactivo y autodidacta, que me impulsa a mantenerme actualizado en las últimas tecnologías y tendencias del sector.
 
-🎯 Mi objetivo es integrarme en un equipo de alto rendimiento donde pueda aplicar y ampliar mi experiencia, seguir aprendiendo, y aportar soluciones innovadoras.
+🎯 Mi objetivo es integrarme en un equipo donde pueda aplicar lo aprendido.
 
 Me considero una persona determinada, dinámica y con mentalidad emprendedora, comprometida tanto con el aprendizaje continuo como con el trabajo colaborativo.
 
-📄 Certificado de discapacidad permanente del 40%
+
 
 
 ---
 
 # About Me
 
-I completed an introductory programming course offered by ONCE, where I discovered my passion for software development. Towards the end of the course, I focused on the .NET framework, which led me to develop my most ambitious project to date:  [Inventory manager](https://github.com/blackl1ght98/GestorInventario). I’ve been working on this project for 11 months, and it has allowed me to consolidate my knowledge of .NET while applying best practices in architecture, security, and scalability. I’m fully aware that there’s always more to learn, and I continue to study and grow every day.
+I completed an introductory programming course offered by ONCE, where I discovered my passion for software development. Towards the end of the course, I focused on the .NET framework, which led me to develop my most ambitious project to date: [Gestor de Inventario](https://github.com/blackl1ght98/GestorInventario)
+. I worked on this project for almost a year, and although it is now completed, I continue to improve it. This experience allowed me to consolidate my .NET knowledge and apply best practices in architecture, security, and scalability. Nevertheless, I am aware that there is always more to learn, and I continue to develop my skills every day.
 
-Later, I completed an intensive web development bootcamp focused on React, which culminated in a final project that strengthened my skills in the modern frontend ecosystem.
+Subsequently, I completed an intensive web development bootcamp focused on React, culminating in a final project that strengthened my skills in the modern frontend ecosystem.
 
-I am passionate about technology and programming, with a proactive and self-taught mindset that drives me to stay up to date with the latest tools, trends, and technologies in the industry.
+I am passionate about computing and programming, with a proactive and self-taught approach that drives me to stay up-to-date with the latest technologies and industry trends.
 
-🎯 My goal is to join a high-performance team where I can apply and expand my experience, continue learning, and contribute innovative solutions.
+🎯 My goal is to join a team where I can apply what I have learned.
 
-I consider myself a determined, dynamic individual with an entrepreneurial spirit, committed to continuous learning and collaborative work.
+I consider myself determined, dynamic, and entrepreneurial, committed both to continuous learning and collaborative work.
 
-📄 Permanent disability certificate: 40%
+
 
 ## 🐍 GitHub Snake Game
 
