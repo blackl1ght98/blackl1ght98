@@ -177,5 +177,4 @@ Aquí puedes encontrar algunos de mis proyectos más importantes:
 
 Si estás interesado en conocer más acerca de mis proyectos o en colaborar en algún desarrollo, no dudes en contactarme.
 
-- **GitHub:** [blackl1ght98](https://github.com/blackl1ght98)
 - **LinkedIn:** [Guillermo LinkedIn](https://www.linkedin.com/in/guillermo-fuentes-buenosvinos/)
